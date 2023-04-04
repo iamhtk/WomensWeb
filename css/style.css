@@ -2,7 +2,7 @@
 body {
     font-family: 'Ubuntu', sans-serif;
     color: black;
-    margin: 20px auto;
+    /* margin: 20px auto; */
     position: relative;
     isolation: isolate;
 
